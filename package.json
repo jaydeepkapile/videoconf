@@ -1,5 +1,5 @@
 {
-  "name": "videochat-webfrontend",
+  "name": "webrtc-prototype",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webtutsplus/videoChat-WebFrontend.git"
+    "url": "git+https://github.com/jaydeepkapile/videoconf.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webtutsplus/videoChat-WebFrontend/issues"
+    "url": "https://github.com/jaydeepkapile/videoconf/issues"
   },
-  "homepage": "https://github.com/webtutsplus/videoChat-WebFrontend#readme",
+  "homepage": "https://github.com/jaydeepkapile/videoconf#readme",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
